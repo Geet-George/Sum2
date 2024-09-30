@@ -1,6 +1,6 @@
-def add_two_numbers(num1,num2):
+def add_two_numbers(num1, num2):
     """
-    returns the sum of two numbers
+    Returns the sum of two numbers
 
     Input:
         num1 : numeric
@@ -11,5 +11,6 @@ def add_two_numbers(num1,num2):
     """
     return num1 + num2
 
+
 def test_add_two_numbers():
-    assert add_two_numbers(3,4) == 7
+    assert add_two_numbers(3, 4) == 7
