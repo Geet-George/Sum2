@@ -13,4 +13,7 @@ def add_two_numbers(num1, num2):
 
 
 def test_add_two_numbers():
+    """
+    testing the test_add_two_numbers function
+    """
     assert add_two_numbers(3, 4) == 7
