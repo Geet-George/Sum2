@@ -1,0 +1,6 @@
+[project]
+name = "Sum2"
+author = "Geet George"
+
+[build-system]
+requires = ["setuptools"]
